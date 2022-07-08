@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    //Aks the user's name
+    //Ask the user's name
     string name = get_string("What's your name?\n");
 
     //Print Hello + name
