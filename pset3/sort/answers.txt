@@ -1,0 +1,12 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Because when testing a file already sorted, sort1 took 0m0.770s while sort3 took 0m3.634s and we already know that sort2 is Merge Sort as showed in line 7.
+
+sort2 uses: Merge Sort
+
+How do you know?: Because when testing random50000.txt sort2 took just 0m0.862s while sort1 took 0m7.838s and sort3 took 0m3.387s. Showing merge sort efficiency of sorting random numbers (worst case).
+
+sort3 uses: Selection Sort
+
+How do you know?: Because when using a sorted list, sort3 took more time to finish the program beucase the algorithm has to pass through all values (n^2 times) to ensure the list is sorted. Taking a lot of time more than sort1 (n times) and sort2 (n log n times).check50 cs50/labs/2022/x/sort
+

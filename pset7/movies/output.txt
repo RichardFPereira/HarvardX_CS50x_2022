@@ -1,0 +1,103 @@
++--------------------------------------------------------+
+|                         title                          |
++--------------------------------------------------------+
+| A Nightmare on Elm Street                              |
+| Private Resort                                         |
+| Lady Jane                                              |
+| A Room with a View                                     |
+| La maschera                                            |
+| Francesco                                              |
+| Getting It Right                                       |
+| Cry-Baby                                               |
+| Edward Scissorhands                                    |
+| Where Angels Fear to Tread                             |
+| Howards End                                            |
+| Arizona Dream                                          |
+| Benny & Joon                                           |
+| What's Eating Gilbert Grape                            |
+| Ed Wood                                                |
+| Mary Shelley's Frankenstein                            |
+| Dead Man                                               |
+| Don Juan DeMarco                                       |
+| Margaret's Museum                                      |
+| Nick of Time                                           |
+| Portraits chinois                                      |
+| Twelfth Night                                          |
+| The Brave                                              |
+| Donnie Brasco                                          |
+| A Merry War                                            |
+| The Revengers' Comedies                                |
+| The Wings of the Dove                                  |
+| Fear and Loathing in Las Vegas                         |
+| From Hell                                              |
+| The Theory of Flight                                   |
+| Corpse Bride                                           |
+| Planet of the Apes                                     |
+| The Astronaut's Wife                                   |
+| The Ninth Gate                                         |
+| Sleepy Hollow                                          |
+| Women Talking Dirty                                    |
+| The Petticoat Expeditions                              |
+| The Source                                             |
+| Carnivale                                              |
+| Blow                                                   |
+| Novocaine                                              |
+| Till Human Voices Wake Us                              |
+| Before Night Falls                                     |
+| Once Upon a Time in Mexico                             |
+| The Heart of Me                                        |
+| Lost in La Mancha                                      |
+| Finding Neverland                                      |
+| Wallace & Gromit: The Curse of the Were-Rabbit         |
+| Pirates of the Caribbean: The Curse of the Black Pearl |
+| Secret Window                                          |
+| Charlie and the Chocolate Factory                      |
+| The Libertine                                          |
+| The Rum Diary                                          |
+| Happily Ever After                                     |
+| Pirates of the Caribbean: Dead Man's Chest             |
+| Sweeney Todd: The Demon Barber of Fleet Street         |
+| Conversations with Other Women                         |
+| Pirates of the Caribbean: At World's End               |
+| Gonzo                                                  |
+| Alice in Wonderland                                    |
+| Dark Shadows                                           |
+| Public Enemies                                         |
+| Rango                                                  |
+| The Lone Ranger                                        |
+| The Tourist                                            |
+| Pirates of the Caribbean: On Stranger Tides            |
+| When You're Strange                                    |
+| Black Mass                                             |
+| The King's Speech                                      |
+| Cinderella                                             |
+| Pirates of the Caribbean: Dead Men Tell No Tales       |
+| The Young and Prodigious T.S. Spivet                   |
+| For No Good Reason                                     |
+| Transcendence                                          |
+| Sherlock Gnomes                                        |
+| Alice Through the Looking Glass                        |
+| City of Lies                                           |
+| Mortdecai                                              |
+| Suffragette                                            |
+| Night Will Fall                                        |
+| Yoga Hosers                                            |
+| Fantastic Beasts: The Crimes of Grindelwald            |
+| 55 Steps                                               |
+| Sgt. Stubby: An American Hero                          |
+| Platoon: Brothers in Arms                              |
+| Waiting for the Barbarians                             |
+| Hope and Healing Award Concert                         |
+| The Professor                                          |
+| Rolling Stone: Stories from the Edge                   |
+| Enola Holmes                                           |
+| Nice Girls Don't Stay for Breakfast                    |
+| Minamata                                               |
+| Tintoretto. A Rebel in Venice                          |
+| Crock of Gold: A Few Rounds with Shane MacGowan        |
+| Three Minutes: A Lengthening                           |
+| The Magical World of Julia Donaldson                   |
+| E. M. Forster: His Longest Journey                     |
+| Johnny Depp: King of Cult                              |
+| La fabrique aux acteurs                                |
++--------------------------------------------------------+
